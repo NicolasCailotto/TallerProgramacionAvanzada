@@ -3,15 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="54f4d807-863e-4d0c-adb3-0400d4a69ca2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/diagrame/clases/MonjesVikingosDiagramaClase.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/src/diagrame/clases/MonjesVikingosDiagramaClase.ucls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/MonjeVikingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/MonjeVikingo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/Vikingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/Vikingo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/estados/Berserker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Berserker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/estados/Calmado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Calmado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/estados/Colerico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Colerico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/estados/Estado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Estado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/estados/Normal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Normal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/edu/unlam/halcones/monjes/vikingos/MonjeVikingoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/edu/unlam/halcones/monjes/vikingos/conState/MonjeVikingoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MonjesVikingos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MonjesVikingos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Berserker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Berserker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Colerico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Colerico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Estado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Estado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Normal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Normal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,21 +16,109 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/MonjeVikingo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Estado.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+              <folding>
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Calmado.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Normal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Colerico.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Berserker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Estado.java" />
+        <option value="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Berserker.java" />
+        <option value="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Colerico.java" />
+        <option value="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Normal.java" />
+        <option value="$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/MonjeVikingo.java" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/dev/OSDE/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="$USER_HOME$/dev/OSDE/apache-maven-3.3.9/conf/settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../OSDE/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../OSDE/apache-maven-3.3.9/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="width" value="1910" />
-    <option name="height" value="1051" />
+    <option name="x" value="961" />
+    <option name="width" value="959" />
+    <option name="height" value="1052" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -66,7 +150,7 @@
               <item name="MonjesVikingos" type="b2602c69:ProjectViewProjectNode" />
               <item name="MonjesVikingos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vikingos" type="462c0819:PsiDirectoryNode" />
+              <item name="conState" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -82,6 +166,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,22 +192,26 @@
       <updated>1588867170741</updated>
       <workItem from="1588867177241" duration="75000" />
       <workItem from="1588867319235" duration="1026000" />
+      <workItem from="1588886101860" duration="1185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1101000" />
+    <option name="totallyTimeSpent" value="2286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5180723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -133,8 +222,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32938644" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297414" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -148,5 +239,68 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Calmado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Normal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Colerico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Berserker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/estados/Estado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/unlam/halcones/monjes/vikingos/conState/MonjeVikingo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

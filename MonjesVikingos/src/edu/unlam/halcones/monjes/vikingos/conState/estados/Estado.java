@@ -3,8 +3,8 @@ package edu.unlam.halcones.monjes.vikingos.conState.estados;
 import java.math.BigDecimal;
 
 public abstract class Estado {
-	private BigDecimal multiplicadorAtaque = BigDecimal.ONE;
-	private BigDecimal multiplicadorDefensa = BigDecimal.ONE;
+	protected BigDecimal multiplicadorAtaque = BigDecimal.ONE;
+	protected BigDecimal multiplicadorDefensa = BigDecimal.ONE;
 	
 	public Estado() {}
 	

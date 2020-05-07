@@ -5,12 +5,13 @@ import java.math.BigDecimal;
 public class Normal extends Estado {
 
 	public Normal() {
-		super();
+		this.multiplicadorAtaque = BigDecimal.ONE;
+		this.multiplicadorDefensa = BigDecimal.ONE;
 	}
 
 	@Override
 	public Estado recibirAtaque() {
-		return new Colerico(new BigDecimal(2), new BigDecimal(2));
+		return new Colerico();
 	}
 
 	@Override

@@ -4,8 +4,9 @@ import java.math.BigDecimal;
 
 public class Berserker extends Estado {
 
-	public Berserker(BigDecimal multiplicadorAtaque, BigDecimal multiplicadorDefensa) {
-		super(multiplicadorAtaque, multiplicadorDefensa);
+	public Berserker() {
+		this.multiplicadorAtaque = new BigDecimal(3);
+		this.multiplicadorDefensa = new BigDecimal(0.5);
 	}
 
 	@Override
