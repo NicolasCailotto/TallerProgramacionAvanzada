@@ -1,4 +1,4 @@
-package edu.unlam.halcones.monjes.vikingos.estados;
+package edu.unlam.halcones.monjes.vikingos.conState.estados;
 
 public class Calmado extends Estado{
 

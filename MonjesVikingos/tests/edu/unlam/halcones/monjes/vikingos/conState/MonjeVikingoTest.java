@@ -1,11 +1,8 @@
-package edu.unlam.halcones.monjes.vikingos;
+package edu.unlam.halcones.monjes.vikingos.conState;
 
-import static org.junit.Assert.*;
-
+import edu.unlam.halcones.monjes.vikingos.conState.estados.Normal;
 import org.junit.Before;
 import org.junit.Test;
-
-import edu.unlam.halcones.monjes.vikingos.estados.Normal;
 
 public class MonjeVikingoTest {
 

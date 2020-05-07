@@ -1,4 +1,4 @@
-package edu.unlam.halcones.monjes.vikingos.estados;
+package edu.unlam.halcones.monjes.vikingos.conState.estados;
 
 import java.math.BigDecimal;
 

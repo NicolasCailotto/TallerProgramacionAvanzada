@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <class id="1" language="java" name="edu.unlam.halcones.monjes.vikingos.estados.Calmado" project="MonjesVikingos" 
+  <class id="1" language="java" name="Calmado" project="MonjesVikingos"
     file="/MonjesVikingos/src/edu/unlam/halcones/monjes/vikingos/estados/Calmado.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="403" y="429"/>    
@@ -11,7 +11,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="edu.unlam.halcones.monjes.vikingos.estados.Berserker" project="MonjesVikingos" 
+  <class id="2" language="java" name="Berserker" project="MonjesVikingos"
     file="/MonjesVikingos/src/edu/unlam/halcones/monjes/vikingos/estados/Berserker.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="630" y="427"/>    
@@ -21,7 +21,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="edu.unlam.halcones.monjes.vikingos.estados.Normal" project="MonjesVikingos" 
+  <class id="3" language="java" name="Normal" project="MonjesVikingos"
     file="/MonjesVikingos/src/edu/unlam/halcones/monjes/vikingos/estados/Normal.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="877" y="432"/>    
@@ -31,7 +31,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="4" language="java" name="edu.unlam.halcones.monjes.vikingos.estados.Colerico" project="MonjesVikingos" 
+  <class id="4" language="java" name="Colerico" project="MonjesVikingos"
     file="/MonjesVikingos/src/edu/unlam/halcones/monjes/vikingos/estados/Colerico.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="1131" y="425"/>    
@@ -41,7 +41,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="5" language="java" name="edu.unlam.halcones.monjes.vikingos.MonjeVikingo" project="MonjesVikingos" 
+  <class id="5" language="java" name="MonjeVikingo" project="MonjesVikingos"
     file="/MonjesVikingos/src/edu/unlam/halcones/monjes/vikingos/MonjeVikingo.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="439" y="105"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -50,7 +50,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="6" language="java" name="edu.unlam.halcones.monjes.vikingos.Vikingo" project="MonjesVikingos" 
+  <class id="6" language="java" name="Vikingo" project="MonjesVikingos"
     file="/MonjesVikingos/src/edu/unlam/halcones/monjes/vikingos/Vikingo.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="168" y="104"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -59,7 +59,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="7" language="java" name="edu.unlam.halcones.monjes.vikingos.estados.Estado" project="MonjesVikingos" 
+  <class id="7" language="java" name="Estado" project="MonjesVikingos"
     file="/MonjesVikingos/src/edu/unlam/halcones/monjes/vikingos/estados/Estado.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="730" y="106"/>    
