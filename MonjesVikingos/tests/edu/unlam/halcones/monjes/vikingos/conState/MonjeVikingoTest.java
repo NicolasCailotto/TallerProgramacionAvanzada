@@ -1,6 +1,7 @@
 package edu.unlam.halcones.monjes.vikingos.conState;
 
 import edu.unlam.halcones.monjes.vikingos.conState.estados.Normal;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -15,7 +16,7 @@ public class MonjeVikingoTest {
 
 	@Test
 	public void creacionConEstadoNormal() {
-		assertEquals(Normal.class, monje.getEstado().getClass());
+		Assert.assertEquals(Normal.class, monje.getEstado().getClass());
 	}
 
 }
